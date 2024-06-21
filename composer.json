@@ -1,5 +1,5 @@
 {
-    "name": "turingadmin/webman-admin",
+    "name": "turing/webman-admin",
     "autoload": {
         "psr-4": {
             "turing\\WebmanAdmin\\\\": "src/"
