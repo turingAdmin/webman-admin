@@ -1,0 +1,15 @@
+{
+    "name": "turingadmin/webman-admin",
+    "autoload": {
+        "psr-4": {
+            "Turingadmin\\WebmanAdmin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "xiaobin",
+            "email": "850009244@qq.com"
+        }
+    ],
+    "require": {}
+}
