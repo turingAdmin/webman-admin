@@ -2,7 +2,7 @@
     "name": "turingsadmin/webman-admin",
     "autoload": {
         "psr-4": {
-            "turing\\WebmanAdmin\\\\": "src/"
+            "turingsadmin\\WebmanAdmin\\": "src/"
         }
     },
     "authors": [
